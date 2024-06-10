@@ -1,11 +1,16 @@
 ## 🤙🏾 Olá, eu sou o Andjeckson.
-#### É um prazer tê-lo aqui!!!
 
-🔭 Em busca de uma vaga de emprego como Dev Front-end.
+<p>É um prazer tê-lo aqui!!!</p>
 
-👨🏾‍💻 Desenvolvo pelo celular, pois ainda não tenho computador.
+<hr>
 
-❤️ Paixão por tecnologia.
+* 🔭 Em busca de uma vaga de emprego como Dev Front-end.
+
+* 👨🏾‍💻 Desenvolvo pelo celular, pois ainda não tenho computador.
+
+* ❤️ Paixão por tecnologia.
+
+<hr>
 
 ## 📈 Estatísticas
 
