@@ -1,4 +1,13 @@
-## Olá, meu nome é Andjeckson, é um prazer té-lo(a) aqui!
+## 🤙🏾 Olá, eu sou o Andjeckson.
+#### É um prazer tê-lo aqui!!!
+
+🔭 Em busca de uma vaga de emprego como Dev Front-end.
+
+👨🏾‍💻 Desenvolvo pelo celular, pois ainda não tenho computador.
+
+❤️ Paixão por tecnologia.
+
+## 📈 Estatísticas
 
 ![Estatísticas do meu perfil](https://github-readme-stats.vercel.app/api?username=andjeckson&bg_color=90,000000,0E3EA0&show_icons=true&theme=dark&icon_color=206AFF&text_color=9CBDFF&ring_color=206AFF&border_color=206AFF&title_color=206AFF&border_radius=20&rank_icon=github&locale=pt-br)
 
